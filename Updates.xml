@@ -1,11 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <updates>
-  <release CreateDate="2015-03-29T00:00:00Z" IsAvalableAtD4M="true">
-    <Software>
-      <Name>Jira</Name>
-      <SysName>Jira</SysName>
-      <Version>6.4</Version>
-    </Software>
-    <Notes />
-  </release>
 </updates>
