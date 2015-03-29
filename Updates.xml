@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-03-09T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Confluence</Name>
+      <SysName>Confluence</SysName>
+      <Version>5.7.1</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2015-03-23T00:00:00Z" IsAvalableAtD4M="true">
     <Software>
       <Name>Jira</Name>
