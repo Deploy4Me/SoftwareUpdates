@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[DokuWiki]( https://deploy4me.com/en/install/dokuwiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2014-09-29d "Hrun" | Available in Deploy4Me | 21 Mar 2015 | 
 [Joomla]( https://deploy4me.com/en/install/joomla.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.4.1 | Available in Deploy4Me | 11 Dec 2014 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.35 | Available in Deploy4Me | 19 Mar 2015 | 
 [Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.9.1.0 | Available in Deploy4Me | 07 Dec 2014 | 

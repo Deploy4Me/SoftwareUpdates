@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-03-21T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>DokuWiki</Name>
+      <SysName>DokuWiki</SysName>
+      <Version>2014-09-29d "Hrun"</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2014-12-11T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Joomla</Name>
