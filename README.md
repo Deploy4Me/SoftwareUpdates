@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.0.12634 | Available in Deploy4Me | 11 Mar 2015 | 
 [Stash]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.7 | Release | 15 Mar 2015 | 
 [Stash]( https://deploy4me.com/en/install/stash.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.7 | Available in Deploy4Me | 24 Feb 2015 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.7.1 | Available in Deploy4Me | 09 Mar 2015 | 
