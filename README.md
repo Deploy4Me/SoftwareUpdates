@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Joomla]( https://deploy4me.com/en/install/joomla.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.4.1 | Available in Deploy4Me | 11 Dec 2014 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.35 | Available in Deploy4Me | 19 Mar 2015 | 
 [Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.9.1.0 | Available in Deploy4Me | 07 Dec 2014 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.1.1 | Available in Deploy4Me | 19 Feb 2015 | 
