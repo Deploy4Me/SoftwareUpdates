@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MySQL]( https://deploy4me.com/en/install/mysql.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.5 | Available in Deploy4Me | 08 Dec 2014 | 
 [MySQL]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.6.23 | Release | 04 Feb 2015 | 
 [Node.js]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 0.12.1 | Release | 24 Mar 2015 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 0.12.0 | Available in Deploy4Me | 07 Feb 2015 | 
