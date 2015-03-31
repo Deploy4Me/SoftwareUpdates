@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-03-29T00:00:00" IsAvalableAtD4M="false">
+    <Software>
+      <Name>Tomcat</Name>
+      <SysName>Tomcat</SysName>
+      <Version>8.0.21</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2015-03-30T00:00:00" IsAvalableAtD4M="false">
     <Software>
       <Name>Python</Name>
