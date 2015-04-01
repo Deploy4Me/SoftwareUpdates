@@ -30,5 +30,5 @@ MySQL | 5.5 | Available* | 08 Dec 2014 |
 Magento | 1.9.1.0 | Available* | 07 Dec 2014 | 
 
 
-* Available to deploy at Deploy4Me
+`*` Available to deploy at Deploy4Me
 Any comments and suggestions can be directed to @Deploy4Me/owners
