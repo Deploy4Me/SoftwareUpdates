@@ -17,11 +17,11 @@ Stash | 3.7 | Release | 15 Mar 2015 |
 YouTrack | 6.0.12634 | Available\* | 11 Mar 2015 | 
 Confluence | 5.7.1 | Available\* | 09 Mar 2015 | 
 MongoDB | 3.0 | Available\* | 03 Mar 2015 | 
+Jira | 6.3.15 | Available\* | 02 Mar 2015 | 
 Stash | 3.7 | Available\* | 24 Feb 2015 | 
 WordPress | 4.1.1 | Available\* | 19 Feb 2015 | 
 Node.js | 0.12.0 | Available\* | 07 Feb 2015 | 
 MySQL | 5.6.23 | Release | 04 Feb 2015 | 
-Jira | 6.3.15 | Available\* | 02 Mar 2015 | 
 MODX Revolution | 2.3.3 | Available\* | 30 Jan 2015 | 
 Apache | 2.4.12 | Release | 29 Jan 2015 | Stable Release
 MongoDB | 2.6.7 | Available\* | 14 Jan 2015 | 
