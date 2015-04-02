@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Jira]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.1 | Release | 01 Apr 2015 | 
 Python | 3.5.0a3 | Release | 30 Mar 2015 | Third alpha release
 Tomcat | 8.0.21 | Release | 29 Mar 2015 | 
 Node.js | 0.12.1 | Release | 24 Mar 2015 | 
