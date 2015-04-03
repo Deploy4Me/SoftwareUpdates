@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 0.12.2 | Available in Deploy4Me | 03 Apr 2015 | 
 Stash | 3.8 | Release | 01 Apr 2015 | 
 Jira | 6.4.1 | Release | 01 Apr 2015 | 
 Python | 3.5.0a3 | Release | 30 Mar 2015 | Third alpha release
