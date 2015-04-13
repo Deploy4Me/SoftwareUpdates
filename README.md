@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Tomcat]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0.61 | Release | 12 Apr 2015 | 
 [MySQL]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.6.24 | Release | 07 Apr 2015 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.36 | Available in Deploy4Me | 03 Apr 2015 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 0.12.2 | Available in Deploy4Me | 03 Apr 2015 | 
