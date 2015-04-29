@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-04-25T00:00:00" IsAvalableAtD4M="false">
+    <Software>
+      <Name>Debian</Name>
+      <SysName>Debian</SysName>
+      <Version>8</Version>
+    </Software>
+    <Notes>"stable" </Notes>
+  </release>
   <release CreateDate="2015-04-22T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Stash</Name>
