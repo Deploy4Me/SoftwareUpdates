@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2015-04-29T00:00:00" IsAvalableAtD4M="false">
     <Software>
+      <Name>Nginx</Name>
+      <SysName>Nginx</SysName>
+      <Version>1.9.0</Version>
+    </Software>
+    <Notes>Mainline version</Notes>
+  </release>
+  <release CreateDate="2015-04-29T00:00:00" IsAvalableAtD4M="false">
+    <Software>
       <Name>Jira</Name>
       <SysName>Jira</SysName>
       <Version>6.4.3</Version>
