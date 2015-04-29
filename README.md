@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Jira]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.3 | Release | 29 Apr 2015 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.2.1 | Available in Deploy4Me | 28 Apr 2015 | 
 [Debian]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8 | Release | 25 Apr 2015 | "stable" 
 [Stash]( https://deploy4me.com/en/install/stash.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.8.0 | Available in Deploy4Me | 22 Apr 2015 | 
