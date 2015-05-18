@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-05-17T00:00:00" IsAvalableAtD4M="false">
+    <Software>
+      <Name>phpMyAdmin</Name>
+      <SysName>phpMyAdmin</SysName>
+      <Version>4.4.7</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2015-05-15T00:00:00" IsAvalableAtD4M="false">
     <Software>
       <Name>Tomcat</Name>
