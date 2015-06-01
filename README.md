@@ -5,39 +5,39 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
-[Python]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.7.10 | Release | 24 May 2015 | 
-[Node.js]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 0.12.4 | Release | 22 May 2015 | 
-[PHP]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.6.9 | Release | 17 May 2015 | 
-[phpMyAdmin]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.7 | Release | 17 May 2015 | 
-[Tomcat]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0.62 | Release | 15 May 2015 | 
-[Node.js]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 0.12.3 | Release | 14 May 2015 | 
-[Stash]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.9 | Release | 14 May 2015 | 
-[phpMyAdmin]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.6.1 | Release | 14 May 2015 | 
-[MongoDB]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.0.3 | Release | 12 May 2015 | 
-[Tomcat]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.0.44 | Release | 13 May 2015 | 
-[Jira]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.4 | Release | 13 May 2015 | 
-[phpMyAdmin]( https://deploy4me.com/en/install/phpmyadmin.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.6 | Available in Deploy4Me | 11 May 2015 | 
-[Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.1 | Available in Deploy4Me | 09 May 2015 | 
-[Tomcat]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.0.22 | Release | 08 May 2015 | 
-[Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.9.1.1 | Available in Deploy4Me | 01 May 2015 | 
-[Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.7.4 | Available in Deploy4Me | 06 May 2015 | 
-[Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.37 | Available in Deploy4Me | 07 May 2015 | 
-[WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.2.2 | Available in Deploy4Me | 07 May 2015 | 
-[Nginx]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.9.0 | Release | 29 Apr 2015 | Mainline version
-[Jira]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.3 | Release | 29 Apr 2015 | 
-[WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.2.1 | Available in Deploy4Me | 28 Apr 2015 | 
-[Debian]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8 | Release | 25 Apr 2015 | "stable" 
-[Stash]( https://deploy4me.com/en/install/stash.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.8.0 | Available in Deploy4Me | 22 Apr 2015 | 
-[Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.7.3 | Available in Deploy4Me | 22 Apr 2015 | 
-[Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.2 | Available in Deploy4Me | 22 Apr 2015 | 
-[PHP]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.6.8 | Release | 17 Apr 2015 | 
-[Jira]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.2 | Release | 17 Apr 2015 | 
-[Confluence]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.7.3 | Release | 16 Apr 2015 | 
-[Ruby and RVM]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.2.2 | Release | 14 Apr 2015 | 
-[Tomcat]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0.61 | Release | 12 Apr 2015 | 
-[MySQL]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.6.24 | Release | 07 Apr 2015 | 
-[Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.36 | Available in Deploy4Me | 03 Apr 2015 | 
-[Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 0.12.2 | Available in Deploy4Me | 03 Apr 2015 | 
+Python | 2.7.10 | Release | 24 May 2015 | 
+Node.js | 0.12.4 | Release | 22 May 2015 | 
+PHP | 5.6.9 | Release | 17 May 2015 | 
+phpMyAdmin | 4.4.7 | Release | 17 May 2015 | 
+Tomcat | 7.0.62 | Release | 15 May 2015 | 
+Node.js | 0.12.3 | Release | 14 May 2015 | 
+Stash | 3.9 | Release | 14 May 2015 | 
+phpMyAdmin | 4.4.6.1 | Release | 14 May 2015 | 
+MongoDB | 3.0.3 | Release | 12 May 2015 | 
+Tomcat | 6.0.44 | Release | 13 May 2015 | 
+Jira | 6.4.4 | Release | 13 May 2015 | 
+phpMyAdmin | 4.4.6 | Available in Deploy4Me | 11 May 2015 | 
+Bamboo | 5.8.1 | Available in Deploy4Me | 09 May 2015 | 
+Tomcat | 8.0.22 | Release | 08 May 2015 | 
+Magento | 1.9.1.1 | Available in Deploy4Me | 01 May 2015 | 
+Confluence | 5.7.4 | Available in Deploy4Me | 06 May 2015 | 
+Drupal | 7.37 | Available in Deploy4Me | 07 May 2015 | 
+WordPress | 4.2.2 | Available in Deploy4Me | 07 May 2015 | 
+Nginx | 1.9.0 | Release | 29 Apr 2015 | Mainline version
+Jira | 6.4.3 | Release | 29 Apr 2015 | 
+WordPress | 4.2.1 | Available in Deploy4Me | 28 Apr 2015 | 
+Debian | 8 | Release | 25 Apr 2015 | "stable" 
+Stash | 3.8.0 | Available in Deploy4Me | 22 Apr 2015 | 
+Confluence | 5.7.3 | Available in Deploy4Me | 22 Apr 2015 | 
+Jira | 6.4.2 | Available in Deploy4Me | 22 Apr 2015 | 
+PHP | 5.6.8 | Release | 17 Apr 2015 | 
+Jira | 6.4.2 | Release | 17 Apr 2015 | 
+Confluence | 5.7.3 | Release | 16 Apr 2015 | 
+Ruby and RVM | 2.2.2 | Release | 14 Apr 2015 | 
+Tomcat | 7.0.61 | Release | 12 Apr 2015 | 
+MySQL | 5.6.24 | Release | 07 Apr 2015 | 
+Drupal | 7.36 | Available in Deploy4Me | 03 Apr 2015 | 
+Node.js | 0.12.2 | Available in Deploy4Me | 03 Apr 2015 | 
 Stash | 3.8 | Release | 01 Apr 2015 | 
 Jira | 6.4.1 | Release | 01 Apr 2015 | 
 Python | 3.5.0a3 | Release | 30 Mar 2015 | Third alpha release
