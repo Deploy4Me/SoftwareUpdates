@@ -5,6 +5,10 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+MySQL | 5.6.25 | Release | 30 May 2015 | 
+phpMyAdmin | 4.4.8 | Release | 29 Jun 2015 | 
+Tomcat | 8.0.23 | Release | 28 Jun 2015 | 
+Jira | 6.4.5 | Release | 26 Jun 2015 | 
 Python | 2.7.10 | Release | 24 May 2015 | 
 Node.js | 0.12.4 | Release | 22 May 2015 | 
 PHP | 5.6.9 | Release | 17 May 2015 | 
