@@ -20,28 +20,28 @@ phpMyAdmin | 4.4.6.1 | Release | 14 May 2015 |
 MongoDB | 3.0.3 | Release | 12 May 2015 | 
 Tomcat | 6.0.44 | Release | 13 May 2015 | 
 Jira | 6.4.4 | Release | 13 May 2015 | 
-phpMyAdmin | 4.4.6 | Available in Deploy4Me | 11 May 2015 | 
-Bamboo | 5.8.1 | Available in Deploy4Me | 09 May 2015 | 
+phpMyAdmin | 4.4.6 | Available* | 11 May 2015 | 
+Bamboo | 5.8.1 | Available* | 09 May 2015 | 
 Tomcat | 8.0.22 | Release | 08 May 2015 | 
-Magento | 1.9.1.1 | Available in Deploy4Me | 01 May 2015 | 
-Confluence | 5.7.4 | Available in Deploy4Me | 06 May 2015 | 
-Drupal | 7.37 | Available in Deploy4Me | 07 May 2015 | 
-WordPress | 4.2.2 | Available in Deploy4Me | 07 May 2015 | 
+Magento | 1.9.1.1 | Available* | 01 May 2015 | 
+Confluence | 5.7.4 | Available* | 06 May 2015 | 
+Drupal | 7.37 | Available* | 07 May 2015 | 
+WordPress | 4.2.2 | Available* | 07 May 2015 | 
 Nginx | 1.9.0 | Release | 29 Apr 2015 | Mainline version
 Jira | 6.4.3 | Release | 29 Apr 2015 | 
-WordPress | 4.2.1 | Available in Deploy4Me | 28 Apr 2015 | 
+WordPress | 4.2.1 | Available* | 28 Apr 2015 | 
 Debian | 8 | Release | 25 Apr 2015 | "stable" 
-Stash | 3.8.0 | Available in Deploy4Me | 22 Apr 2015 | 
-Confluence | 5.7.3 | Available in Deploy4Me | 22 Apr 2015 | 
-Jira | 6.4.2 | Available in Deploy4Me | 22 Apr 2015 | 
+Stash | 3.8.0 | Available* | 22 Apr 2015 | 
+Confluence | 5.7.3 | Available* | 22 Apr 2015 | 
+Jira | 6.4.2 | Available* | 22 Apr 2015 | 
 PHP | 5.6.8 | Release | 17 Apr 2015 | 
 Jira | 6.4.2 | Release | 17 Apr 2015 | 
 Confluence | 5.7.3 | Release | 16 Apr 2015 | 
 Ruby and RVM | 2.2.2 | Release | 14 Apr 2015 | 
 Tomcat | 7.0.61 | Release | 12 Apr 2015 | 
 MySQL | 5.6.24 | Release | 07 Apr 2015 | 
-Drupal | 7.36 | Available in Deploy4Me | 03 Apr 2015 | 
-Node.js | 0.12.2 | Available in Deploy4Me | 03 Apr 2015 | 
+Drupal | 7.36 | Available* | 03 Apr 2015 | 
+Node.js | 0.12.2 | Available* | 03 Apr 2015 | 
 Stash | 3.8 | Release | 01 Apr 2015 | 
 Jira | 6.4.1 | Release | 01 Apr 2015 | 
 Python | 3.5.0a3 | Release | 30 Mar 2015 | Third alpha release
