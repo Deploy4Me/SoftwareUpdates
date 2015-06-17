@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-06-17T00:00:00" IsAvalableAtD4M="false">
+    <Software>
+      <Name>MongoDB</Name>
+      <SysName>MongoDB</SysName>
+      <Version>3.0.4</Version>
+    </Software>
+    <Notes>Current Stable Release</Notes>
+  </release>
   <release CreateDate="2015-06-12T00:00:00" IsAvalableAtD4M="false">
     <Software>
       <Name>PHP</Name>
