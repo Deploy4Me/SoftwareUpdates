@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2015-06-17T00:00:00" IsAvalableAtD4M="false">
     <Software>
+      <Name>Drupal</Name>
+      <SysName>Drupal</SysName>
+      <Version>7.38</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2015-06-17T00:00:00" IsAvalableAtD4M="false">
+    <Software>
       <Name>MongoDB</Name>
       <SysName>MongoDB</SysName>
       <Version>3.0.4</Version>
