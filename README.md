@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Stash]( https://deploy4me.com/en/install/stash.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.10.0 | Available in Deploy4Me | 19 Jun 2015 | 
 [Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.6 | Available in Deploy4Me | 19 Jun 2015 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.4 | Available in Deploy4Me | 19 Jun 2015 | 
 [phpMyAdmin]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.10 | Release | 17 Jun 2015 | 
