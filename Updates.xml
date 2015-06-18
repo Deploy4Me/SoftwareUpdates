@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2015-06-19T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Jira</Name>
+      <SysName>Jira</SysName>
+      <Version>6.4.6</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2015-06-19T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Confluence</Name>
       <SysName>Confluence</SysName>
       <Version>5.8.4</Version>
