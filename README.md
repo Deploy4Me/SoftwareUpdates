@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Confluence]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.5 | Release | 29 Jun 2015 | 
 [MODX Revolution]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.3.5 | Release | 25 Jun 2015 | 
 [Bamboo]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.1 | Release | 24 Jun 2015 | 
 [MODX Revolution]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.3.4 | Release | 23 Jun 2015 | 
