@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-07-03T00:00:00" IsAvalableAtD4M="false">
+    <Software>
+      <Name>Node.js</Name>
+      <SysName>Nodejs</SysName>
+      <Version>0.12.6</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2015-06-29T00:00:00" IsAvalableAtD4M="false">
     <Software>
       <Name>Confluence</Name>
