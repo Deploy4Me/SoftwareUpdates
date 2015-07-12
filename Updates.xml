@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-07-10T00:00:00" IsAvalableAtD4M="false">
+    <Software>
+      <Name>Bamboo</Name>
+      <SysName>Bamboo</SysName>
+      <Version>5.9.2</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2015-07-06T00:00:00" IsAvalableAtD4M="false">
     <Software>
       <Name>phpMyAdmin</Name>
