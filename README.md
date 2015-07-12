@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.5 | Available in Deploy4Me | 13 Jul 2015 | 
 [Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.7 | Available in Deploy4Me | 13 Jul 2015 | 
 [Node.js]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 0.12.7 | Release | 10 Jul 2015 | 
 [Bamboo]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.2 | Release | 10 Jul 2015 | 
