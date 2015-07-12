@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-07-13T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Jira</Name>
+      <SysName>Jira</SysName>
+      <Version>6.4.7</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2015-07-10T00:00:00" IsAvalableAtD4M="false">
     <Software>
       <Name>Node.js</Name>
