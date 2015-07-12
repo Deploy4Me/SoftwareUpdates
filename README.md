@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 0.12.7 | Available in Deploy4Me | 13 Jul 2015 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.38 | Available in Deploy4Me | 13 Jul 2015 | 
 [Stash]( https://deploy4me.com/en/install/stash.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.10.2 | Available in Deploy4Me | 13 Jul 2015 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.2 | Available in Deploy4Me | 13 Jul 2015 | 
