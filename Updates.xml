@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2015-07-15T00:00:00" IsAvalableAtD4M="false">
     <Software>
+      <Name>Apache</Name>
+      <SysName>Apache</SysName>
+      <Version>2.4.16</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2015-07-15T00:00:00" IsAvalableAtD4M="false">
+    <Software>
       <Name>Nginx</Name>
       <SysName>Nginx</SysName>
       <Version>1.9.3</Version>
