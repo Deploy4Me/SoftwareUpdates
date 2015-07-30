@@ -5,12 +5,12 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
-[MongoDB]( https://deploy4me.com/en/install/mongodb.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.0.5 | Available in Deploy4Me | 30 Jul 2015 | 
-[Stash]( https://deploy4me.com/en/install/stash.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.11.1 | Available in Deploy4Me | 30 Jul 2015 | 
-[Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.3 | Available in Deploy4Me | 30 Jul 2015 | 
-[WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.2.3 | Available in Deploy4Me | 30 Jul 2015 | 
-[Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.6 | Available in Deploy4Me | 30 Jul 2015 | 
-[Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.9 | Available in Deploy4Me | 30 Jul 2015 | 
+[MongoDB]( https://deploy4me.com/en/install/mongodb.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.0.5 | Available* | 30 Jul 2015 | 
+[Stash]( https://deploy4me.com/en/install/stash.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.11.1 | Available* | 30 Jul 2015 | 
+[Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.3 | Available* | 30 Jul 2015 | 
+[WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.2.3 | Available* | 30 Jul 2015 | 
+[Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.6 | Available* | 30 Jul 2015 | 
+[Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.9 | Available* | 30 Jul 2015 | 
 MySQL | 5.6.26 | Release | 24 Jul 2015 | 
 WordPress | 4.2.3 | Release | 24 Jul 2015 | 
 Confluence | 5.8.6 | Release | 21 Jul 2015 | 
@@ -20,15 +20,15 @@ Jira | 6.4.8 | Release | 17 Jul 2015 |
 Apache | 2.4.16 | Release | 15 Jul 2015 | 
 Nginx | 1.9.3 | Release | 15 Jul 2015 | 
 Stash | 3.11.0 | Release | 14 Jul 2015 | 
-phpMyAdmin | 4.4.11 | Available in Deploy4Me | 15 Jul 2015 | 
-Node.js | 0.12.7 | Available in Deploy4Me | 13 Jul 2015 | 
-Drupal | 7.38 | Available in Deploy4Me | 13 Jul 2015 | 
-Stash | 3.10.2 | Available in Deploy4Me | 13 Jul 2015 | 
-Bamboo | 5.9.2 | Available in Deploy4Me | 13 Jul 2015 | 
-MODX Revolution | 2.3.5 | Available in Deploy4Me | 13 Jul 2015 | 
-Magento | 1.9.2.0 | Available in Deploy4Me | 13 Jul 2015 | 
-Confluence | 5.8.5 | Available in Deploy4Me | 13 Jul 2015 | 
-Jira | 6.4.7 | Available in Deploy4Me | 13 Jul 2015 | 
+phpMyAdmin | 4.4.11 | Available* | 15 Jul 2015 | 
+Node.js | 0.12.7 | Available* | 13 Jul 2015 | 
+Drupal | 7.38 | Available* | 13 Jul 2015 | 
+Stash | 3.10.2 | Available* | 13 Jul 2015 | 
+Bamboo | 5.9.2 | Available* | 13 Jul 2015 | 
+MODX Revolution | 2.3.5 | Available* | 13 Jul 2015 | 
+Magento | 1.9.2.0 | Available* | 13 Jul 2015 | 
+Confluence | 5.8.5 | Available* | 13 Jul 2015 | 
+Jira | 6.4.7 | Available* | 13 Jul 2015 | 
 Node.js | 0.12.7 | Release | 10 Jul 2015 | 
 Bamboo | 5.9.2 | Release | 10 Jul 2015 | 
 phpMyAdmin | 4.4.11 | Release | 06 Jul 2015 | 
@@ -40,10 +40,10 @@ Bamboo | 5.9.1 | Release | 24 Jun 2015 |
 MODX Revolution | 2.3.4 | Release | 23 Jun 2015 | 
 Jira | 6.4.7 | Release | 23 Jun 2015 | 
 Node.js | 0.12.5 | Release | 23 Jun 2015 | 
-Bamboo | 5.9.0 | Available in Deploy4Me | 19 Jun 2015 | 
-Stash | 3.10.0 | Available in Deploy4Me | 19 Jun 2015 | 
-Jira | 6.4.6 | Available in Deploy4Me | 19 Jun 2015 | 
-Confluence | 5.8.4 | Available in Deploy4Me | 19 Jun 2015 | 
+Bamboo | 5.9.0 | Available* | 19 Jun 2015 | 
+Stash | 3.10.0 | Available* | 19 Jun 2015 | 
+Jira | 6.4.6 | Available* | 19 Jun 2015 | 
+Confluence | 5.8.4 | Available* | 19 Jun 2015 | 
 phpMyAdmin | 4.4.10 | Release | 17 Jun 2015 | 
 Drupal | 7.38 | Release | 17 Jun 2015 | 
 MongoDB | 3.0.4 | Release | 17 Jun 2015 | Current Stable Release
@@ -55,9 +55,9 @@ Stash | 3.10 | Release | 09 Jun 2015 |
 Debian | 8.1 | Release | 06 Jun 2015 | 
 phpMyAdmin | 4.4.9 | Release | 04 Jun 2015 | 
 Confluence | 5.8.4 | Release | 03 Jun 2015 | 
-Stash | 3.9.2 | Available in Deploy4Me | 02 Jun 2015 | 
-Jira | 6.4.5 | Available in Deploy4Me | 02 Jun 2015 | 
-Confluence | 5.8.2 | Available in Deploy4Me | 02 Jun 2015 | 
+Stash | 3.9.2 | Available* | 02 Jun 2015 | 
+Jira | 6.4.5 | Available* | 02 Jun 2015 | 
+Confluence | 5.8.2 | Available* | 02 Jun 2015 | 
 MySQL | 5.6.25 | Release | 30 May 2015 | 
 phpMyAdmin | 4.4.8 | Release | 29 Jun 2015 | 
 Tomcat | 8.0.23 | Release | 28 Jun 2015 | 
