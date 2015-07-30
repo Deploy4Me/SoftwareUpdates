@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MongoDB]( https://deploy4me.com/en/install/mongodb.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.0.5 | Available in Deploy4Me | 30 Jul 2015 | 
 [Stash]( https://deploy4me.com/en/install/stash.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.11.1 | Available in Deploy4Me | 30 Jul 2015 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.3 | Available in Deploy4Me | 30 Jul 2015 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.2.3 | Available in Deploy4Me | 30 Jul 2015 | 
