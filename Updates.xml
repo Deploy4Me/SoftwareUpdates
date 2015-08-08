@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-08-07T00:00:00" IsAvalableAtD4M="false">
+    <Software>
+      <Name>phpMyAdmin</Name>
+      <SysName>phpMyAdmin</SysName>
+      <Version>4.4.13</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2015-08-05T00:00:00" IsAvalableAtD4M="false">
     <Software>
       <Name>Confluence</Name>
