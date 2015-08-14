@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2015-08-14T00:00:00" IsAvalableAtD4M="false">
     <Software>
+      <Name>Stash</Name>
+      <SysName>Stash</SysName>
+      <Version>3.11.2</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2015-08-14T00:00:00" IsAvalableAtD4M="false">
+    <Software>
       <Name>YouTrack</Name>
       <SysName>YouTrack</SysName>
       <Version>6.5.16367</Version>
