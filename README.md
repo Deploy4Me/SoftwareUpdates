@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.5.16367 | Available in Deploy4Me | 14 Aug 2015 | 
 [DokuWiki]( https://deploy4me.com/en/install/dokuwiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2015-08-10 | Available in Deploy4Me | 14 Aug 2015 | 
 [phpMyAdmin]( https://deploy4me.com/en/install/phpmyadmin.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.13.1 | Available in Deploy4Me | 14 Aug 2015 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.8 | Available in Deploy4Me | 14 Aug 2015 | 
