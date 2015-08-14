@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-08-14T00:00:00" IsAvalableAtD4M="false">
+    <Software>
+      <Name>YouTrack</Name>
+      <SysName>YouTrack</SysName>
+      <Version>6.5.16367</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2015-08-12T00:00:00" IsAvalableAtD4M="false">
     <Software>
       <Name>Jira</Name>
