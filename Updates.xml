@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2015-08-17T00:00:00" IsAvalableAtD4M="false">
     <Software>
+      <Name>YouTrack</Name>
+      <SysName>YouTrack</SysName>
+      <Version>6.5.16392</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2015-08-17T00:00:00" IsAvalableAtD4M="false">
+    <Software>
       <Name>Confluence</Name>
       <SysName>Confluence</SysName>
       <Version>5.8.9</Version>
