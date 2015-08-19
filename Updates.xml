@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2015-08-19T00:00:00" IsAvalableAtD4M="false">
     <Software>
+      <Name>Bamboo</Name>
+      <SysName>Bamboo</SysName>
+      <Version>5.9.4</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2015-08-19T00:00:00" IsAvalableAtD4M="false">
+    <Software>
       <Name>MODX Revolution</Name>
       <SysName>MODX</SysName>
       <Version>2.4.0</Version>
