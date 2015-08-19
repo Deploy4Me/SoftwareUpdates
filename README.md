@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MODX Revolution]( https://deploy4me.com/en/install/modx-revolution.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.4.0 | Available in Deploy4Me | 19 Aug 2015 | 
 [Ruby and RVM]( https://deploy4me.com/en/install/ruby.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.2.3 | Available in Deploy4Me | 19 Aug 2015 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.4 | Available in Deploy4Me | 19 Aug 2015 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.3 | Available in Deploy4Me | 19 Aug 2015 | 
