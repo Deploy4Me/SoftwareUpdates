@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.4 | Available in Deploy4Me | 19 Aug 2015 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.3 | Available in Deploy4Me | 19 Aug 2015 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.9 | Available in Deploy4Me | 19 Aug 2015 | 
 [YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.5.16392 | Available in Deploy4Me | 19 Aug 2015 | 
