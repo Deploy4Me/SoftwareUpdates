@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.39 | Available in Deploy4Me | 15 Sep 2015 | 
 [DokuWiki]( https://deploy4me.com/en/install/dokuwiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2015-08-10a | Available in Deploy4Me | 15 Sep 2015 | 
 [phpMyAdmin]( https://deploy4me.com/en/install/phpmyadmin.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.14.1 | Available in Deploy4Me | 15 Sep 2015 | 
 [Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.4.11 | Available in Deploy4Me | 15 Sep 2015 | 
