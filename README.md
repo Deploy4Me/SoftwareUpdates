@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.9.2.2 | Available in Deploy4Me | 09 Nov 2015 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.15 | Available in Deploy4Me | 22 Oct 2015 | 
 [Joomla]( https://deploy4me.com/en/install/joomla.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.4.5 | Available in Deploy4Me | 22 Oct 2015 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.7 | Available in Deploy4Me | 22 Oct 2015 | 
