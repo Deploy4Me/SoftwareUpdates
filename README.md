@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.5.16713 | Available in Deploy4Me | 15 Sep 2015 | 
 YouTrack | 6.5.16655 | Release | 11 Sep 2015 | 
 phpMyAdmin | 4.4.14.1 | Release | 08 Sep 2015 | 
 Debian | 8.2 | Release | 05 Sep 2015 | codenamed jessie
