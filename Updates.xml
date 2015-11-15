@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-09-25T00:00:00" IsAvalableAtD4M="false">
+    <Software>
+      <Name>Bitbucket Server</Name>
+      <SysName>Stash</SysName>
+      <Version>4.0.1</Version>
+    </Software>
+    <Notes>Bitbucket Server (Stash)</Notes>
+  </release>
   <release CreateDate="2015-09-25T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>phpMyAdmin</Name>
