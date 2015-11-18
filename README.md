@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0.2 | Available in Deploy4Me | 17 Nov 2015 | 
 [Amazon Linux]( https://deploy4me.com/en/install/amazon-linux.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2015.09 | Available in Deploy4Me | 15 Nov 2015 | 
 [YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.5.16853 | Available in Deploy4Me | 09 Nov 2015 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.16 | Available in Deploy4Me | 09 Nov 2015 | 
