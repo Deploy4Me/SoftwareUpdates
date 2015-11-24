@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.1 | Available in Deploy4Me | 23 Nov 2015 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.17 | Available in Deploy4Me | 18 Nov 2015 | 
 [Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0.2 | Available in Deploy4Me | 17 Nov 2015 | 
 [Amazon Linux]( https://deploy4me.com/en/install/amazon-linux.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2015.09 | Available in Deploy4Me | 15 Nov 2015 | 
