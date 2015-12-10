@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2015-12-09T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>WordPress</Name>
+      <SysName>WordPress</SysName>
+      <Version>4.4</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2015-12-07T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Drupal</Name>
