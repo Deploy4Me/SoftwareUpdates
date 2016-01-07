@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Python]( https://deploy4me.com/en/install/python.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.7.11 | Available in Deploy4Me | 06 Jan 2016 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.0.2 | Available in Deploy4Me | 06 Jan 2016 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.1 | Available in Deploy4Me | 06 Jan 2016 | 
 [Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.2.0 | Available in Deploy4Me | 24 Dec 2015 | 
