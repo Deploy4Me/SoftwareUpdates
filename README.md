@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0.7 | Available in Deploy4Me | 07 Jan 2016 | The same day update!
 [Python]( https://deploy4me.com/en/install/python.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.5.1 | Available in Deploy4Me | 06 Jan 2016 | 
 [Python]( https://deploy4me.com/en/install/python.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.7.11 | Available in Deploy4Me | 06 Jan 2016 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.0.2 | Available in Deploy4Me | 06 Jan 2016 | 
