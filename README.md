@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.3.0 | Available in Deploy4Me | 11 Jan 2016 | The same day update!
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.4 | Available in Deploy4Me | 10 Jan 2016 | The same day update!
 [Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0.7 | Available in Deploy4Me | 07 Jan 2016 | The same day update!
 [Python]( https://deploy4me.com/en/install/python.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.5.1 | Available in Deploy4Me | 06 Jan 2016 | 
