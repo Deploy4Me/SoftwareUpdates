@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-01-17T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Bamboo</Name>
+      <SysName>Bamboo</SysName>
+      <Version>5.9.9</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2016-01-11T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Bitbucket Server</Name>
