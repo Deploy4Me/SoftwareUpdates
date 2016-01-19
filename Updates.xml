@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-01-18T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Bamboo</Name>
+      <SysName>Bamboo</SysName>
+      <Version>5.10.0</Version>
+    </Software>
+    <Notes>The same day update!</Notes>
+  </release>
   <release CreateDate="2016-01-17T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Bamboo</Name>
