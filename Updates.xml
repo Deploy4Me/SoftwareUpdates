@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-01-19T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Magento</Name>
+      <SysName>Magento</SysName>
+      <Version>2.0.0</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-01-19T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Bitbucket Server</Name>
       <SysName>Stash</SysName>
       <Version>4.3.1</Version>
