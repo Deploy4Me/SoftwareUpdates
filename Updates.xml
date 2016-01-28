@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-01-27T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Magento</Name>
+      <SysName>Magento</SysName>
+      <Version>2.0.1</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-01-27T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Jira</Name>
       <SysName>Jira</SysName>
       <Version>7.0.10</Version>
