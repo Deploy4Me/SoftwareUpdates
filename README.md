@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0.10 | Available in Deploy4Me | 27 Jan 2016 | 
 [PrestaShop]( https://deploy4me.com/en/install/prestashop.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.6.1.4 | Available in Deploy4Me | 27 Jan 2016 | 
 [ownCloud]( https://deploy4me.com/en/install/owncloud.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.2.2 | Available in Deploy4Me | 27 Jan 2016 | 
 [Moodle]( https://deploy4me.com/en/install/moodle.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.0.2+ | Available in Deploy4Me | 20 Jan 2016 | 
