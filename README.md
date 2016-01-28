@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MongoDB]( https://deploy4me.com/en/install/mongodb.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.2.1 | Available in Deploy4Me | 27 Jan 2016 | 
 [phpMyAdmin]( https://deploy4me.com/en/install/phpmyadmin.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.5.4 | Available in Deploy4Me | 27 Jan 2016 | 
 [Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.0.1 | Available in Deploy4Me | 27 Jan 2016 | 
 [Jira]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0.10 | Available in Deploy4Me | 27 Jan 2016 | 
