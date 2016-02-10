@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.5.17031 | Available in Deploy4Me | 09 Feb 2016 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.2 | Available in Deploy4Me | 02 Feb 2016 | The same day update!
 [Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.0.2 | Available in Deploy4Me | 28 Jan 2016 | The same day update!
 [YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.5.17015 | Available in Deploy4Me | 27 Jan 2016 | 
