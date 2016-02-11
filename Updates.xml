@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-02-10T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Jira</Name>
+      <SysName>Jira</SysName>
+      <Version>7.1.0</Version>
+    </Software>
+    <Notes>The same day update!</Notes>
+  </release>
   <release CreateDate="2016-02-09T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Drupal</Name>
