@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-02-27T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Drupal</Name>
+      <SysName>Drupal</SysName>
+      <Version>8.0.4</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2016-02-22T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Node.js</Name>
