@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-03-01T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Drupal</Name>
+      <SysName>Drupal</SysName>
+      <Version>8.0.5</Version>
+    </Software>
+    <Notes>The same day update!</Notes>
+  </release>
+  <release CreateDate="2016-03-01T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Bamboo</Name>
       <SysName>Bamboo</SysName>
       <Version>5.10.2</Version>
