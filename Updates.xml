@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-03-09T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>ownCloud</Name>
+      <SysName>OwnCloud</SysName>
+      <Version>9.0.0</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-03-09T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>MongoDB</Name>
       <SysName>MongoDB</SysName>
       <Version>3.2.4</Version>
