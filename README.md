@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MongoDB]( https://deploy4me.com/en/install/mongodb.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.2.4 | Available in Deploy4Me | 09 Mar 2016 | 
 [Node.js]( https://deploy4me.com/en/new-software-releases-and-updates.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.0 LTS | Release | 09 Mar 2016 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.8.0 | Available in Deploy4Me | 09 Mar 2016 | 
 [Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.1 | Available in Deploy4Me | 02 Mar 2016 | 
