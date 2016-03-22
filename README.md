@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[phpMyAdmin]( https://deploy4me.com/en/install/phpmyadmin.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.6.0 | Available in Deploy4Me | 21 Mar 2016 | The same day update!
 [Joomla]( https://deploy4me.com/en/install/joomla.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.5.0 | Available in Deploy4Me | 21 Mar 2016 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.0 | Available in Deploy4Me | 16 Mar 2016 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.7 | Available in Deploy4Me | 16 Mar 2016 | The same day update!
