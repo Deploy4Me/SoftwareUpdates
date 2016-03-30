@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-03-29T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Node.js</Name>
+      <SysName>Nodejs</SysName>
+      <Version>4.4.1 LTS</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2016-03-21T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>phpMyAdmin</Name>
