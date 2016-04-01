@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-03-31T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Magento</Name>
+      <SysName>Magento</SysName>
+      <Version>2.0.4</Version>
+    </Software>
+    <Notes>The same day update!</Notes>
+  </release>
+  <release CreateDate="2016-03-31T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Node.js</Name>
       <SysName>Nodejs</SysName>
       <Version>4.4.2 LTS</Version>
