@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-04-05T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Bitbucket Server</Name>
+      <SysName>Bitbucket</SysName>
+      <Version>4.5.1</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2016-03-31T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Jira Service Desk</Name>
