@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.2 LTS | Available in Deploy4Me | 05 Apr 2016 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.10.1 | Available in Deploy4Me | 05 Apr 2016 | 
 [Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.5.1 | Available in Deploy4Me | 05 Apr 2016 | 
 [Jira Service Desk]( https://deploy4me.com/en/install/jira-service-desk.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.1.2 | Available in Deploy4Me | 31 Mar 2016 | 
