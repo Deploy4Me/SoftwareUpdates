@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-04-07T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>ownCloud</Name>
+      <SysName>OwnCloud</SysName>
+      <Version>9.0.1</Version>
+    </Software>
+    <Notes>The same day update!</Notes>
+  </release>
+  <release CreateDate="2016-04-07T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>MODX Revolution</Name>
       <SysName>MODX</SysName>
       <Version>2.4.4</Version>
