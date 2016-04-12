@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.8 | Available in Deploy4Me | 11 Apr 2016 | The same day update!
 [ownCloud]( https://deploy4me.com/en/install/owncloud.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 9.0.1 | Available in Deploy4Me | 07 Apr 2016 | The same day update!
 [MODX Revolution]( https://deploy4me.com/en/install/modx-revolution.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.4.4 | Available in Deploy4Me | 07 Apr 2016 | 
 [Jira Service Desk]( https://deploy4me.com/en/install/jira-service-desk.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.1.4 | Available in Deploy4Me | 05 Apr 2016 | 

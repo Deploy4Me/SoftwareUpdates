@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-04-11T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Confluence</Name>
+      <SysName>Confluence</SysName>
+      <Version>5.9.8</Version>
+    </Software>
+    <Notes>The same day update!</Notes>
+  </release>
   <release CreateDate="2016-04-07T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>ownCloud</Name>
