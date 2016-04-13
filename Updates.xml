@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-04-12T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Bitbucket Server</Name>
+      <SysName>Bitbucket</SysName>
+      <Version>4.5.2</Version>
+    </Software>
+    <Notes>The same day update!</Notes>
+  </release>
+  <release CreateDate="2016-04-12T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>WordPress</Name>
       <SysName>WordPress</SysName>
       <Version>4.5</Version>
