@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.1.0 | Available in Deploy4Me | 19 Apr 2016 | The same day update!
 [PrestaShop]( https://deploy4me.com/en/install/prestashop.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.6.1.5 | Available in Deploy4Me | 12 Apr 2016 | 
 [Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.5.2 | Available in Deploy4Me | 12 Apr 2016 | The same day update!
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.5 | Available in Deploy4Me | 12 Apr 2016 | The same day update!
