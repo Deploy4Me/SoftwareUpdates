@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MODX Revolution]( https://deploy4me.com/en/install/modx-revolution.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.5.0-pl | Available in Deploy4Me | 21 Apr 2016 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.11.0 Stable | Available in Deploy4Me | 21 Apr 2016 | The same day update!
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.4.3 LTS | Available in Deploy4Me | 21 Apr 2016 | The same day update!
 [Jira Core]( https://deploy4me.com/en/install/jira-core.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.1.5 | Available in Deploy4Me | 21 Apr 2016 | The same day update!
