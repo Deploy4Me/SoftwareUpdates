@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Jira Software]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.1.5 | Available in Deploy4Me | 21 Apr 2016 | The same day update! 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.9 | Available in Deploy4Me | 20 Apr 2016 | The same day update! 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.1.0 | Available in Deploy4Me | 19 Apr 2016 | The same day update!
 [PrestaShop]( https://deploy4me.com/en/install/prestashop.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.6.1.5 | Available in Deploy4Me | 12 Apr 2016 | 
