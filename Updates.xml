@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-04-21T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Jira Core</Name>
+      <SysName>JiraCore</SysName>
+      <Version>7.1.5</Version>
+    </Software>
+    <Notes>The same day update!</Notes>
+  </release>
+  <release CreateDate="2016-04-21T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Jira Service Desk</Name>
       <SysName>JiraSDesk</SysName>
       <Version>3.1.5</Version>
