@@ -4,6 +4,14 @@
     <Software>
       <Name>Node.js</Name>
       <SysName>Nodejs</SysName>
+      <Version>6.1.0</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-05-06T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Node.js</Name>
+      <SysName>Nodejs</SysName>
       <Version>4.4.4 LTS</Version>
     </Software>
     <Notes />
