@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[ownCloud]( https://deploy4me.com/en/install/owncloud.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 9.0.2 | Available in Deploy4Me | 06 May 2016 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.9.10 | Available in Deploy4Me | 04 May 2016 | 
 [phpMyAdmin]( https://deploy4me.com/en/install/phpmyadmin.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.6.1 | Available in Deploy4Me | 04 May 2016 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.1.1 | Available in Deploy4Me | 04 May 2016 | 
