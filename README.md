@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.0.7 | Available in Deploy4Me | 23 May 2016 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.12.0.2 | Available in Deploy4Me | 23 May 2016 | 
 [Moodle]( https://deploy4me.com/en/install/moodle.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.1 | Available in Deploy4Me | 22 May 2016 | 
 [Jira Service Desk]( https://deploy4me.com/en/install/jira-service-desk.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.1.7 | Available in Deploy4Me | 17 May 2016 | 
