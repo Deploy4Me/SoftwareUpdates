@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.1.2 | Available in Deploy4Me | 01 Jun 2016 | 
 [Moodle]( https://deploy4me.com/en/install/moodle.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.1+ | Available in Deploy4Me | 31 May 2016 | 
 [YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.5.17105 | Available in Deploy4Me | 31 May 2016 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.12.2 | Available in Deploy4Me | 31 May 2016 | 
