@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-06-15T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>PrestaShop</Name>
+      <SysName>prestashop</SysName>
+      <Version>1.6.1.6</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-06-15T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Bamboo</Name>
       <SysName>Bamboo</SysName>
       <Version>5.12.2.1</Version>
