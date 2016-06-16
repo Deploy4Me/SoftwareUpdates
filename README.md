@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.1.3 | Available in Deploy4Me | 15 Jun 2016 | 
 [PrestaShop]( https://deploy4me.com/en/install/prestashop.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.6.1.6 | Available in Deploy4Me | 15 Jun 2016 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.12.2.1 | Available in Deploy4Me | 15 Jun 2016 | 
 [Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.7.1 | Available in Deploy4Me | 14 Jun 2016 | 
