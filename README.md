@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Jira Core]( https://deploy4me.com/en/install/jira-core.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.1.8 | Available in Deploy4Me | 21 Jun 2016 | 
 [Jira Service Desk]( https://deploy4me.com/en/install/jira-service-desk.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.1.8 | Available in Deploy4Me | 21 Jun 2016 | 
 [Jira Software]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.1.8 | Available in Deploy4Me | 21 Jun 2016 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.1.3 | Available in Deploy4Me | 15 Jun 2016 | 
