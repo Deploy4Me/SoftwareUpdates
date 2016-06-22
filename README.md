@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.2.2 | Available in Deploy4Me | 21 Jun 2016 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.5.3 | Available in Deploy4Me | 21 Jun 2016 | 
 [Jira Core]( https://deploy4me.com/en/install/jira-core.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.1.8 | Available in Deploy4Me | 21 Jun 2016 | 
 [Jira Service Desk]( https://deploy4me.com/en/install/jira-service-desk.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.1.8 | Available in Deploy4Me | 21 Jun 2016 | 
