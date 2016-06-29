@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MediaWiki]( https://deploy4me.com/en/install/mediawiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.27.0 | Available in Deploy4Me | 28 Jun 2016 | 
 [Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.1.0 | Available in Deploy4Me | 24 Jun 2016 | 
 [phpMyAdmin]( https://deploy4me.com/en/install/phpmyadmin.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.6.3 | Available in Deploy4Me | 24 Jun 2016 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.2.2 | Available in Deploy4Me | 21 Jun 2016 | 
