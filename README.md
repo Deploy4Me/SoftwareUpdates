@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[DokuWiki]( https://deploy4me.com/en/install/dokuwiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2016-06-26 | Available in Deploy4Me | 28 Jun 2016 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.10.1 | Available in Deploy4Me | 28 Jun 2016 | 
 [MediaWiki]( https://deploy4me.com/en/install/mediawiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.27.0 | Available in Deploy4Me | 28 Jun 2016 | 
 [Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.1.0 | Available in Deploy4Me | 24 Jun 2016 | 
