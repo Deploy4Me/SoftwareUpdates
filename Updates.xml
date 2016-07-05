@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-07-04T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>DokuWiki</Name>
+      <SysName>DokuWiki</SysName>
+      <Version>2016-06-26a</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2016-06-28T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>DokuWiki</Name>
