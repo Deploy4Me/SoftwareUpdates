@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Jira Core]( https://deploy4me.com/en/install/jira-core.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.1.9 | Available in Deploy4Me | 04 Jul 2016 | 
 [Jira Software]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.1.9 | Available in Deploy4Me | 04 Jul 2016 | 
 [ownCloud]( https://deploy4me.com/en/install/owncloud.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 9.0.3 | Available in Deploy4Me | 04 Jul 2016 | 
 [DokuWiki]( https://deploy4me.com/en/install/dokuwiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2016-06-26a | Available in Deploy4Me | 04 Jul 2016 | 
