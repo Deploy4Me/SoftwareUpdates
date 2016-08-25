@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Jira Core]( https://deploy4me.com/en/install/jira-core.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.2.0 | Available in Deploy4Me | 24 Aug 2016 | 
 [Jira Software]( https://deploy4me.com/en/install/jira.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.2.0 | Available in Deploy4Me | 24 Aug 2016 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.13.0.1 | Available in Deploy4Me | 24 Aug 2016 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.10.4 | Available in Deploy4Me | 24 Aug 2016 | 
