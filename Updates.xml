@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-09-10T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>PrestaShop</Name>
+      <SysName>prestashop</SysName>
+      <Version>1.6.1.7</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-09-10T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>WordPress</Name>
       <SysName>WordPress</SysName>
       <Version>4.6.1</Version>
