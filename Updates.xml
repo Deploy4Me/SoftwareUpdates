@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-09-10T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Drupal</Name>
+      <SysName>Drupal</SysName>
+      <Version>8.1.9</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-09-10T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Confluence</Name>
       <SysName>ConfluServ</SysName>
       <Version>5.10.5</Version>
