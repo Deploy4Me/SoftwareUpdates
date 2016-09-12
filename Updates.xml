@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-09-11T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Moodle</Name>
+      <SysName>Moodle</SysName>
+      <Version>3.1.2</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2016-09-10T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>PrestaShop</Name>
