@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-10-03T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Drupal</Name>
+      <SysName>Drupal</SysName>
+      <Version>8.1.10</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-10-03T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Jira Core</Name>
       <SysName>JiraCore</SysName>
       <Version>7.2.2</Version>
