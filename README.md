@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Joomla]( https://deploy4me.com/en/install/joomla.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.6.4 | Available in Deploy4Me | 31 Oct 2016 | 
 [PrestaShop]( https://deploy4me.com/en/install/prestashop.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.6.1.8 | Available in Deploy4Me | 31 Oct 2016 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.14.0.2 | Available in Deploy4Me | 31 Oct 2016 | 
 [MediaWiki]( https://deploy4me.com/en/install/mediawiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.27.1 | Available in Deploy4Me | 31 Oct 2016 | 
