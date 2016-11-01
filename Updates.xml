@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2016-10-31T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>MediaWiki</Name>
+      <SysName>mediawiki</SysName>
+      <Version>1.27.1</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2016-10-24T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Node.js</Name>
