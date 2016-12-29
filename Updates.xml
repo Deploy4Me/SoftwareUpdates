@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-12-28T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>ownCloud</Name>
+      <SysName>OwnCloud</SysName>
+      <Version>9.1.3</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-12-28T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Magento</Name>
       <SysName>Magento</SysName>
       <Version>2.1.3</Version>
