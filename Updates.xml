@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-12-28T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Bitbucket Server</Name>
+      <SysName>Bitbucket</SysName>
+      <Version>4.12.0</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-12-28T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Node.js</Name>
       <SysName>Nodejs</SysName>
       <Version>7.3.0</Version>

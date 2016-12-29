@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.12.0 | Available in Deploy4Me | 28 Dec 2016 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.3.0 | Available in Deploy4Me | 28 Dec 2016 | 
 [MongoDB]( https://deploy4me.com/en/install/mongodb.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.4.1 | Available in Deploy4Me | 28 Dec 2016 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.14.3.1 | Available in Deploy4Me | 12 Dec 2016 | 
