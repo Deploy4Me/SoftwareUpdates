@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-12-28T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Ubuntu</Name>
+      <SysName>Ubuntu</SysName>
+      <Version>Ubuntu Server 16.04 LTS</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-12-28T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>PHP</Name>
       <SysName>PHP</SysName>
       <Version>7.0</Version>
