@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2016-12-28T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>MySQL</Name>
+      <SysName>MySQL</SysName>
+      <Version>5.7</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2016-12-28T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Ubuntu</Name>
       <SysName>Ubuntu</SysName>
       <Version>Ubuntu Server 16.04 LTS</Version>

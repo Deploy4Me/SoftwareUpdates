@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MySQL]( https://deploy4me.com/en/install/mysql.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.7 | Available in Deploy4Me | 28 Dec 2016 | 
 [Ubuntu]( https://deploy4me.com/en/install/ubuntu.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | Ubuntu Server 16.04 LTS | Available in Deploy4Me | 28 Dec 2016 | 
 [PHP]( https://deploy4me.com/en/install/php.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.0 | Available in Deploy4Me | 28 Dec 2016 | 
 [MODX Revolution]( https://deploy4me.com/en/install/modx-revolution.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.5.2 | Available in Deploy4Me | 28 Dec 2016 | 
