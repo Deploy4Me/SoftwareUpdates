@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[phpMyAdmin]( https://deploy4me.com/en/install/phpmyadmin.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.6.6 | Available in Deploy4Me | 24 Jan 2017 | 
 [PrestaShop]( https://deploy4me.com/en/install/prestashop.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.7.0.4 | Available in Deploy4Me | 17 Jan 2017 | 
 [Confluence]( https://deploy4me.com/en/install/confluence.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.0.4 | Available in Deploy4Me | 17 Jan 2017 | 
 [Redmine]( https://deploy4me.com/en/install/redmine.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.3.2 | Available in Deploy4Me | 14 Jan 2017 | 

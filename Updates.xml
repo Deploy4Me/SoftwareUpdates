@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2017-01-24T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>phpMyAdmin</Name>
+      <SysName>phpMyAdmin</SysName>
+      <Version>4.6.6</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2017-01-17T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>PrestaShop</Name>
