@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.2.6 | Available in Deploy4Me | 06 Feb 2017 | 
 [ownCloud]( https://deploy4me.com/en/install/owncloud.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 9.1.4 | Available in Deploy4Me | 06 Feb 2017 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.7.2 | Available in Deploy4Me | 28 Jan 2017 | 
 [Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.13.0 | Available in Deploy4Me | 24 Jan 2017 | 
