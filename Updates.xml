@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2017-02-06T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>MongoDB</Name>
+      <SysName>MongoDB</SysName>
+      <Version>3.4.2</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2017-02-06T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Node.js</Name>
       <SysName>Nodejs</SysName>
       <Version>6.9.5 LTS</Version>

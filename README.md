@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MongoDB]( https://deploy4me.com/en/install/mongodb.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.4.2 | Available in Deploy4Me | 06 Feb 2017 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.9.5 LTS | Available in Deploy4Me | 06 Feb 2017 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.5.0 | Available in Deploy4Me | 06 Feb 2017 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.2.6 | Available in Deploy4Me | 06 Feb 2017 | 
