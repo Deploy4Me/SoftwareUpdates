@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.9.3.2 | Available in Deploy4Me | 10 Feb 2017 | 
 [MODX Revolution]( https://deploy4me.com/en/install/modx-revolution.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.5.5 | Available in Deploy4Me | 09 Feb 2017 | 
 [MongoDB]( https://deploy4me.com/en/install/mongodb.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.4.2 | Available in Deploy4Me | 06 Feb 2017 | 
 [Node.js]( https://deploy4me.com/en/install/node.js.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 6.9.5 LTS | Available in Deploy4Me | 06 Feb 2017 | 
