@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2017-02-10T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Confluence</Name>
+      <SysName>ConfluServ</SysName>
+      <Version>6.0.5</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2017-02-10T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Magento</Name>
       <SysName>Magento</SysName>
       <Version>1.9.3.2</Version>
