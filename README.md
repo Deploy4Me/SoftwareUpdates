@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[DokuWiki]( https://deploy4me.com/en/install/dokuwiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2017-02-19a | Available in Deploy4Me | 21 Feb 2017 | 
 [Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.14.0 | Available in Deploy4Me | 21 Feb 2017 | 
 [YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2017.1.30867 | Available in Deploy4Me | 10 Feb 2017 | 
 [Jira Service Desk]( https://deploy4me.com/en/install/jira-service-desk.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 7.3.1 | Available in Deploy4Me | 10 Feb 2017 | 
