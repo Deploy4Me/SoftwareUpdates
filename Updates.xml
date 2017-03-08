@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2017-03-07T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Node.js</Name>
+      <SysName>Nodejs</SysName>
+      <Version>7.7.1</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2017-03-07T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>WordPress</Name>
       <SysName>WordPress</SysName>
       <Version>4.7.3</Version>
