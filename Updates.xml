@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2017-03-21T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>YouTrack</Name>
+      <SysName>YouTrack</SysName>
+      <Version>2017.1.31650</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2017-03-21T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Moodle</Name>
       <SysName>Moodle</SysName>
       <Version>3.2.2+</Version>
