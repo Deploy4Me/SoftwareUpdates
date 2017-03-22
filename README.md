@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Moodle]( https://deploy4me.com/en/install/moodle.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.2.2+ | Available in Deploy4Me | 21 Mar 2017 | 
 [PrestaShop]( https://deploy4me.com/en/install/prestashop.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.7.0.6 | Available in Deploy4Me | 21 Mar 2017 | 
 [Bitbucket Server]( https://deploy4me.com/en/install/bitbucket-server.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.14.3 | Available in Deploy4Me | 21 Mar 2017 | 
 [Bamboo]( https://deploy4me.com/en/install/bamboo.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 5.15.3 | Available in Deploy4Me | 21 Mar 2017 | 
