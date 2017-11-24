@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2017-11-23T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Python</Name>
+      <SysName>Python</SysName>
+      <Version>2.7.14</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2017-11-23T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Node.js</Name>
       <SysName>Nodejs</SysName>
       <Version>9.2.0</Version>
