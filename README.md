@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[phpMyAdmin]( https://deploy4me.com/en/install/phpmyadmin.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.7.5 | Available in Deploy4Me | 23 Nov 2017 | 
 [DokuWiki]( https://deploy4me.com/en/install/dokuwiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2017-02-19c | Available in Deploy4Me | 23 Nov 2017 | 
 [MODX Revolution]( https://deploy4me.com/en/install/modx-revolution.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.6.0 | Available in Deploy4Me | 23 Nov 2017 | 
 [YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2017.4.37623 | Available in Deploy4Me | 23 Nov 2017 | 
