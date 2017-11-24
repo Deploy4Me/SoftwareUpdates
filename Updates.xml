@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2017-11-23T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>YouTrack</Name>
+      <SysName>YouTrack</SysName>
+      <Version>2017.4.37623</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2017-11-23T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>ownCloud</Name>
       <SysName>OwnCloud</SysName>
       <Version>10.0.3</Version>
