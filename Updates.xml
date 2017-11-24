@@ -4,6 +4,14 @@
     <Software>
       <Name>Magento</Name>
       <SysName>Magento</SysName>
+      <Version>1.9.3.6</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2017-11-23T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>Magento</Name>
+      <SysName>Magento</SysName>
       <Version>2.2.1</Version>
     </Software>
     <Notes />
