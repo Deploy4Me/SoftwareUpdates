@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
+  <release CreateDate="2018-04-10T00:00:00" IsAvalableAtD4M="true">
+    <Software>
+      <Name>WordPress</Name>
+      <SysName>WordPress</SysName>
+      <Version>4.9.5</Version>
+    </Software>
+    <Notes />
+  </release>
   <release CreateDate="2017-11-23T00:00:00" IsAvalableAtD4M="true">
     <Software>
       <Name>Python</Name>
