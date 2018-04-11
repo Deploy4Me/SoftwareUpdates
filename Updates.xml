@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2018-04-10T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>MediaWiki</Name>
+      <SysName>mediawiki</SysName>
+      <Version>1.30.0</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2018-04-10T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Joomla</Name>
       <SysName>Joomla</SysName>
       <Version>3.8.6</Version>
