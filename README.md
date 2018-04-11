@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Joomla]( https://deploy4me.com/en/install/joomla.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.8.6 | Available in Deploy4Me | 10 Apr 2018 | 
 [Redmine]( https://deploy4me.com/en/install/redmine.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.4.5 | Available in Deploy4Me | 10 Apr 2018 | 
 [Moodle]( https://deploy4me.com/en/install/moodle.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.4.2+ | Available in Deploy4Me | 10 Apr 2018 | 
 [PrestaShop]( https://deploy4me.com/en/install/prestashop.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.7.3.0 | Available in Deploy4Me | 10 Apr 2018 | 
