@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.2.3 | Available in Deploy4Me | 10 Apr 2018 | 
 [WordPress]( https://deploy4me.com/en/install/wordpress.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 4.9.5 | Available in Deploy4Me | 10 Apr 2018 | 
 [Python]( https://deploy4me.com/en/install/python.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.6.3 | Available in Deploy4Me | 23 Nov 2017 | 
 [Python]( https://deploy4me.com/en/install/python.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.7.14 | Available in Deploy4Me | 23 Nov 2017 | 
