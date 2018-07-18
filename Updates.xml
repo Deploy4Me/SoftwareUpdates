@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2018-07-17T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Confluence</Name>
+      <SysName>ConfluServ</SysName>
+      <Version>6.10.1</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2018-07-17T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Jira Core</Name>
       <SysName>JiraCore</SysName>
       <Version>7.11.0</Version>
