@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2018-07-17T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Drupal</Name>
+      <SysName>Drupal</SysName>
+      <Version>8.5.5</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2018-07-17T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>YouTrack</Name>
       <SysName>YouTrack</SysName>
       <Version>2018.2.43142</Version>

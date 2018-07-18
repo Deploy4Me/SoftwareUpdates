@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.5.5 | Available in Deploy4Me | 17 Jul 2018 | 
 [YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2018.2.43142 | Available in Deploy4Me | 17 Jul 2018 | 
 [ownCloud]( https://deploy4me.com/en/install/owncloud.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 10.0.9 | Available in Deploy4Me | 17 Jul 2018 | 
 [MediaWiki]( https://deploy4me.com/en/install/mediawiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.31.0 | Available in Deploy4Me | 17 Jul 2018 | 
