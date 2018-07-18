@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2018-07-17T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Jira Service Desk</Name>
+      <SysName>JiraSDesk</SysName>
+      <Version>3.14.0</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2018-07-17T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Jira Software</Name>
       <SysName>JiraSoft</SysName>
       <Version>7.11.0</Version>
