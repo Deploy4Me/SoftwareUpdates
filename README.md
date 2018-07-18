@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[DokuWiki]( https://deploy4me.com/en/install/dokuwiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) |  2018-04-22a | Available in Deploy4Me | 17 Jul 2018 | 
 [MODX Revolution]( https://deploy4me.com/en/install/modx-revolution.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) |  2.6.5 | Available in Deploy4Me | 17 Jul 2018 | 
 [Drupal]( https://deploy4me.com/en/install/drupal.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 8.5.5 | Available in Deploy4Me | 17 Jul 2018 | 
 [YouTrack]( https://deploy4me.com/en/install/youtrack.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2018.2.43142 | Available in Deploy4Me | 17 Jul 2018 | 
