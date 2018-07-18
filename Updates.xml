@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2018-07-17T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>PrestaShop</Name>
+      <SysName>prestashop</SysName>
+      <Version>1.7.4.1</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2018-07-17T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>Magento</Name>
       <SysName>Magento</SysName>
       <Version>2.2.5</Version>
