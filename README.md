@@ -5,6 +5,7 @@ All updates are listed on [Deploy4Me updates page](https://deploy4me.com/en/new-
 
 Software | Version | Status | Date | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
+[MediaWiki]( https://deploy4me.com/en/install/mediawiki.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 1.31.1 | Available in Deploy4Me | 06 Oct 2018 | 
 [Joomla]( https://deploy4me.com/en/install/joomla.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.8.12 | Available in Deploy4Me | 06 Oct 2018 | 
 [Moodle]( https://deploy4me.com/en/install/moodle.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 3.5.2+ | Available in Deploy4Me | 06 Oct 2018 | 
 [Magento]( https://deploy4me.com/en/install/magento.html?utm_source=Github&utm_medium=Github&utm_campaign=Updates) | 2.2.6 | Available in Deploy4Me | 06 Oct 2018 | 
