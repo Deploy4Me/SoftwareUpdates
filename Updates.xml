@@ -2,6 +2,14 @@
 <updates>
   <release CreateDate="2018-10-06T00:00:00" IsAvalableAtD4M="true">
     <Software>
+      <Name>Magento</Name>
+      <SysName>Magento</SysName>
+      <Version>2.2.6</Version>
+    </Software>
+    <Notes />
+  </release>
+  <release CreateDate="2018-10-06T00:00:00" IsAvalableAtD4M="true">
+    <Software>
       <Name>WordPress</Name>
       <SysName>WordPress</SysName>
       <Version>4.9.8</Version>
